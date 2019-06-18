@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url('../staticLayout/assets/netflix_Background.jpg') no-repeat center;;
+    background-size: cover;
+    background-color: black;
+    border: 0px;
+    text-align: center;
+    position: relative;
+    color: white;
+    font-family: 'Martel Sans: 900', sans-serif;
+    font-size: 50px;
+    padding: 3.5em;
+}
+
+.lead {
+    font-size: 35px;
+
+}
